@@ -1,0 +1,8 @@
+{
+  "name": "his-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "b93d510e"
+}
